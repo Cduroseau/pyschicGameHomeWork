@@ -1,0 +1,28 @@
+body{
+    background-image: url("letters.gif")
+}
+
+ .container-fluid{
+    width: 100%;
+    font-style: italic; 
+    font-style: oblique;
+    background-color: rgb(180, 180, 180);
+    text-align: center;
+    margin-bottom: 100px;
+   
+}
+
+
+.col-lg-6 {
+
+    width: 40px;
+    height: auto;
+    box-shadow: 10px 10px 5px grey;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(180, 180, 180);
+    border-radius: 5px; 
+    margin: 10px;
+
+}
+
